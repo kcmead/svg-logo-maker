@@ -4,7 +4,6 @@
   "description": "SVG Logo Maker",
   "main": "index.js",
   "directories": {
-    "example": "examples",
     "lib": "lib"
   },
   "scripts": {

@@ -38,6 +38,9 @@ The SVG Logo Maker isa comand-line tool that enables users to effortlessly creat
     - ![Alt text](/screenshots/ExampleRunthrough.png)
 - Your SVG file will be created with the title "logo.svg" inside the program's folder.
 
+## Video Walkthrough
+[![Video Walkthrough](./screenshots/videoScreenshot.png)](https://drive.google.com/file/d/1l0Dy74ZbBk0tyW6Sw99EvUTNbDt57jh9/preview)
+
 ## Example Output
 
   - SVG file output:
